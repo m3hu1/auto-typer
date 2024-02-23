@@ -11,8 +11,12 @@ The script reads content from a specified text file, character by character, and
 1. **Install Dependencies**: Make sure you have `pynput` installed. You can install it via pip:
     ```
     pip3 install pynput
-    ```
+    
+    or
+    
+   pip3 install -r requirements.txt
+   ```
 
-2. **Prepare Input**: Enter the content to be typed in `input.txt`.
+3. **Prepare Input**: Enter the content to be typed in `input.txt`.
 
-3. **Run the Script**: Execute the Python script. It will start typing the content of the text file with the specified delays.
+4. **Run the Script**: Execute the Python script. It will start typing the content of the text file with the specified delays.
